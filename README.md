@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=_hexcode&text=hyunjoojung)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=hyunjoojung)
 
 
 
